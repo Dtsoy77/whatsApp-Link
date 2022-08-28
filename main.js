@@ -13,7 +13,7 @@ function getWhats(){
             //dataUrlClick.append(urlWhats)
             urlWhats.click()
         }else{
-            alert('введите корректные данные')
+            alert('введите данные')
         }
 
 
