@@ -5,7 +5,7 @@
     top: 0;
     left: 0;
     overflow: auto;
-    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
 }
 .title_components{
     margin-top: 30%;
@@ -20,7 +20,7 @@
     left: 50%;
     margin: -250px 0 0 -250px;
     border-radius: 8px;
-    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    background-color: #485563;
 }
 
 input{
@@ -37,7 +37,6 @@ input{
 }
 
 .btn_cmp{
-
     height: 80px;
     width: 180px;
     margin-top: 15px;
@@ -46,6 +45,7 @@ input{
     border-radius: 8px;
     border: none;
     background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    font-size: 30px;
 }
 .btn_cmp:hover{
     background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
